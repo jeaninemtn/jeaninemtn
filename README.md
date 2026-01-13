@@ -1,8 +1,4 @@
-#### Hello there
-💻 Software developer </br>
-🌱 Currently learning TypeScript and exploring new things... </br>
-
-<p align="left"><img src="/metrics.plugin.languages.svg" alt="Metrics" width="400"></p>
+<p align="left"><img src="/metrics.plugin.languages.svg" alt="Metrics" width="500"></p>
 
 ##### Programming Skills
 <a href="#"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" /></a>
