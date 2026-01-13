@@ -2,9 +2,7 @@
 💻 Software developer </br>
 🌱 Currently learning TypeScript and exploring new things... </br>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeaninemtn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="left"><img src="/metrics.plugin.languages.svg" alt="Metrics" width="400"></p>
 
 ##### Programming Skills
 <a href="#"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" /></a>
