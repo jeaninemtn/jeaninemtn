@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          template: repository
+          # template: repository
           # user: jeaninemtn
           # repo: jeaninemtn
           token: ${{ secrets.TOKEN }}
